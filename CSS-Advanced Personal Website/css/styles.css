@@ -1,0 +1,173 @@
+/********************************* Tag selectors **********************************************/
+h1 {
+  font-size: 50px;
+  font-family: Sacramento, serif;
+  color: white;
+}
+
+h2 {
+  font-family: Montserrat;
+  color: white;
+}
+
+h3 {
+  font-family: Montserrat;
+  color: white;
+}
+
+hr {
+  background-color: #2997D8;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #DFDFDE;
+  width: 4%;
+}
+
+p {
+  color: white;
+}
+
+/*********************************** Class selectors *****************************************/
+.body-class {
+  margin: 0;
+  padding: 0;
+  background-color: #2997D8;
+  font-family: Merriweather, serif;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.cloudOne-Position {
+  position: relative;
+  left: 50px;
+}
+
+.cloudTwo-Position {
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.divOne-class {
+  background-color: #2997D8;
+  padding: 20px;
+  /* margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px; */
+}
+
+.email-image {
+  width: auto;
+  height: 100px;
+}
+
+.footer-link {
+  display: inline-block;
+  margin: 20px 100px 20px 100px;
+  color: white;
+}
+
+.heading-class {
+  display: block;
+  color: white;
+  text-align: center;
+  /* margin-top : 0px;
+  margin-left: 35%; */
+  /* margin-left: 0px;
+  margin-top: 0px;
+  margin-right:0px; */
+}
+
+.p-class {
+  display: block;
+  text-align: center;
+  /* margin-left:41%; */
+  color: white;
+  font-family: Montserrat, serif;
+  font-size: 25px;
+}
+
+.mountain-class {
+  max-height: 130px;
+  max-width: 200px;
+  margin-left: 600px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.Profile-Image {
+  display: block;
+  position: relative;
+  left: 500px;
+  border-radius: 100px;
+}
+
+.subHeading-class {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skill-Emoji {
+  width: auto;
+  height: 100px;
+}
+
+.waving-Hand {
+  width: auto;
+  height: 100px;
+}
+
+/* Style all font awesome icons */
+.fa {
+  border-radius: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedIn {
+  background: #0e76a8;
+  color: white;
+}
+
+.fa-instagram {
+  background: #e95950;
+  color: white;
+}
